@@ -1,9 +1,9 @@
 import { Text, SafeAreaView } from "react-native";
 
-export default function Feed(){
+export default function Products(){
     return (
         <SafeAreaView>
-            <Text>Feed</Text>
+            <Text>Products</Text>
         </SafeAreaView>
     )
 }

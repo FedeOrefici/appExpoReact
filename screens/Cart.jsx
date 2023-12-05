@@ -1,9 +1,9 @@
 import { Text, SafeAreaView } from "react-native";
 
-export default function Settings(){
+export default function Cart(){
     return (
         <SafeAreaView>
-            <Text>Settings</Text>
+            <Text>Cart</Text>
         </SafeAreaView>
     )
 }
